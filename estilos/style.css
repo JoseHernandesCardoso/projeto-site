@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(116, 87, 142);
+    background-color: rgb(168, 138, 195);
 }
 
 main {
@@ -23,6 +23,10 @@ h1 {
 h2 {
     font-size: 1.5em;
     color: rgb(58, 0, 112)
+}
+
+img.lado {
+    float: right;
 }
 
 a {
